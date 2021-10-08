@@ -54,4 +54,4 @@ jobs:
       - name: '运行 【腾讯自选股】'
         #if: env.JRTTSIGNKEY
         run: |
-          node Task/txstockqx.js
+          node Task/txstock.js
