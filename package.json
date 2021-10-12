@@ -1,17 +1,17 @@
 {
-  "name": "xmly",
+  "name": "Sunert",
   "version": "1.0.0",
   "description": "",
-  "main": "xmly.js",
+  "main": "jingxi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1217079729/xmly.git"
+    "url": "https://github.com/Sunert/Scripts.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["中青看点,腾讯新闻等等"],
+  "author": "Sunert",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Sunert/Scripts/issues"
@@ -21,6 +21,7 @@
     "crypto-js": "^4.0.0",
     "got": "^11.7.0",
     "http-server": "^0.12.3",
-    "tough-cookie": "^4.0.0"
+    "tough-cookie": "^4.0.0",
+    "download": "^8.0.0"
   }
 }
